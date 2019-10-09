@@ -1,0 +1,24 @@
+@media (max-width: 600px)
+{
+    .products
+    {
+        display: inherit;
+        height: auto;
+        max-height: none;
+    }
+    .product
+    {
+        margin-top: auto;
+
+    }
+    .main_section
+    {
+        padding: 4%;
+    }
+    .compraporcaracteristicas, .content
+    {
+        display: inherit;
+        text-align: center;
+        padding: 4%;
+    }
+}
